@@ -1,6 +1,6 @@
 # ChatZilla Plugin: Topic Diff
 
-This plugin for [ChatZilla](http://chatzilla.hacksrus.com/) which shows you the changes made to a topic.
+This plugin for [ChatZilla](http://chatzilla.hacksrus.com/) shows you the changes made to a channel's topic.
 
 ## Example
 
